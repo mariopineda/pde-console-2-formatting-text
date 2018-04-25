@@ -1,5 +1,7 @@
 # processing-console-assignment-2-formatting-text-output
 
+**[Assignment Standard Operating Procedures](https://mariopineda.github.io/assignment-sops/)**
+
 ## Step 1
 1. Create a String variable called `team1name`. See https://processing.org/reference/String.html for reference of how to declare and use strings in Processing.
 2. Put the name of a team into the variable, e.g. `team1name = "Edmonton Oilers"`.
